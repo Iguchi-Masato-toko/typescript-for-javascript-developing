@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Iguchi-Masato-toko/typescript-for-javascript-developing/issues"
   },
-  "homepage": "https://github.com/Iguchi-Masato-toko/typescript-for-javascript-developing#readme"
+  "homepage": "https://github.com/Iguchi-Masato-toko/typescript-for-javascript-developing#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
